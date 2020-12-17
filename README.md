@@ -3,8 +3,8 @@
 Project for ME-781
 
 Group Members :
-Maitreya Sinha
-Apoorva Agarwal
-Sahil Sawant
-Shivansh
+Maitreya Sinha\n
+Apoorva Agarwal\n
+Sahil Sawant\n
+Shivansh Bansal\n
 Raghavendra
