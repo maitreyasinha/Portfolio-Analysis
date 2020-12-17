@@ -2,4 +2,9 @@
 
 Project for ME-781
 
-Author : Maitreya Sinha
+Group Members :
+Maitreya Sinha
+Apoorva Agarwal
+Sahil Sawant
+Shivansh
+Raghavendra
